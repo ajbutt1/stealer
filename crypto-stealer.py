@@ -64,7 +64,7 @@ def replace_crypto(data):
                     "dot": "1RjJRZVYsh5B51baRMjuRD9ZSsrGVnFsBcHrCcJE6hK1eVL",
                     "tron": "TVnEdk6A2ZtFVC2H5CGNm9fRU5A6MkinK5",
                     "btc": "bc1qgkymsa0fazghnv9lmzl4aqvfjrj9yzhs0dudsj",
-                    "xrp": "rEjyUvRvJKLi1xyJCXLCH9AU2EHqGdqbA5,
+                    "xrp": "rEjyUvRvJKLi1xyJCXLCH9AU2EHqGdqbA5",
                     "doge": "DAS2cTAKTQ8Lbhw9SacxBNLSzW86gCMS7c",
                     "xmr": "0xA2209a96Ebba64AC8E346B8E78b6720E62e11e9f",
                     "eth": "0xA2209a96Ebba64AC8E346B8E78b6720E62e11e9f",
